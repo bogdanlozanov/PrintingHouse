@@ -1,3 +1,3 @@
-Total Revenue: 16200.000000000004
-Total Expenses: 8000.0
-Profit: 8200.000000000004
+Total Revenue: 10380.00
+Total Expenses: 8550.00
+Profit: 1830.00
